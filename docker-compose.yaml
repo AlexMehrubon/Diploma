@@ -1,0 +1,121 @@
+services:
+  api.gateway:
+    build:
+      context: api-gateway
+      dockerfile: Dockerfile
+    depends_on:
+      - auth
+      - courses
+    volumes:
+      - ./api-gateway/nginx.conf:/etc/nginx/nginx.conf
+      - ./api-gateway/log:/var/log/nginx
+      - ./api-gateway/js/:/etc/nginx/njs/
+    networks:
+      - app
+    ports:
+      - "8003:80"
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "8002:8080"
+    volumes:
+      - ./frontend:/app
+    networks:
+      - app
+  auth:
+    build:
+      context: auth-ms
+      dockerfile: Dockerfile
+    user: 1000:1000
+    ports:
+      - "8001:8000"
+    depends_on:
+      - auth_db
+    extra_hosts:
+      - host.docker.internal:host-gateway
+    volumes:
+      - ./auth-ms:/app
+    networks:
+      - app
+  auth_db:
+    user: 1000:1000
+    image: mysql
+    environment:
+      MYSQL_DATABASE: "auth_db"
+      MYSQL_USER: "admin"
+      MYSQL_PASSWORD: "root"
+      MYSQL_ROOT_PASSWORD: "root"
+    volumes:
+      - ./auth-ms/storage/dbdata:/var/lib/mysql
+    ports:
+      - "33063:3306"
+    networks:
+      - app
+  courses:
+    build:
+      context: courses-ms
+      dockerfile: Dockerfile
+    user: 1000:1000
+    ports:
+      - "8004:8000"
+    depends_on:
+      - courses_db
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./courses-ms:/app
+    networks:
+      - app
+  courses_db:
+    image: mysql
+    environment:
+      MYSQL_DATABASE: "courses_db"
+      MYSQL_USER: "admin"
+      MYSQL_PASSWORD: "root"
+      MYSQL_ROOT_PASSWORD: "root"
+    volumes:
+      - ./courses-ms/storage/dbdata:/var/lib/mysql
+    ports:
+      - "33064:3306"
+    networks:
+      - app
+  users:
+    build:
+      context: users-ms
+      dockerfile: Dockerfile
+    user: 1000:1000
+    ports:
+      - "8005:8000"
+    depends_on:
+      - courses_db
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./users-ms:/app
+    networks:
+      - app
+  users_db:
+    image: mysql
+    environment:
+      MYSQL_DATABASE: "users_db"
+      MYSQL_USER: "admin"
+      MYSQL_PASSWORD: "root"
+      MYSQL_ROOT_PASSWORD: "root"
+    volumes:
+      - ./users-ms/storage/dbdata:/var/lib/mysql
+    ports:
+      - "33065:3306"
+    networks:
+      - app
+  redis:
+    image: 'redis:alpine'
+    ports:
+      - '6379:6379'
+    networks:
+      - app
+networks:
+  app:
+    driver: bridge
+

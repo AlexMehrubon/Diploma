@@ -1,0 +1,396 @@
+2025/03/11 13:02:39 [info] 29#29: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:02:39 [error] 29#29: *2 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:02:39 [error] 29#29: *2 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:04:35 [info] 29#29: *3 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:04:35 [error] 29#29: *4 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:04:35 [error] 29#29: *4 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:08:28 [emerg] 1#1: location "/404.json" is outside location "/api/v1/" in /etc/nginx/nginx.conf:54
+2025/03/11 13:09:25 [info] 22#22: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:09:25 [error] 22#22: *2 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:09:25 [error] 22#22: *2 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:09:32 [info] 22#22: *3 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:09:32 [error] 22#22: *4 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:09:32 [error] 22#22: *4 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:11:30 [info] 22#22: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:11:30 [error] 22#22: *2 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:11:30 [error] 22#22: *2 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:20:56 [info] 29#29: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:20:56 [error] 29#29: *2 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:20:56 [error] 29#29: *2 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:21:00 [info] 29#29: *3 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:21:00 [error] 29#29: *4 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:21:00 [error] 29#29: *4 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:24:37 [info] 29#29: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:24:37 [error] 29#29: *2 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:24:37 [error] 29#29: *2 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:28:02 [notice] 37#37: signal process started
+2025/03/11 13:28:05 [info] 38#38: *3 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:28:05 [error] 38#38: *4 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:28:05 [error] 38#38: *4 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:28:31 [info] 22#22: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:28:31 [error] 22#22: *2 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:28:31 [error] 22#22: *2 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:28:37 [info] 22#22: *3 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:28:37 [error] 22#22: *4 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 13:28:37 [error] 22#22: *4 auth request unexpected status: 500, client: 172.19.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:29:23 [notice] 29#29: signal process started
+2025/03/11 13:29:30 [info] 30#30: *5 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:29:30 [error] 30#30: *6 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:29:37 [info] 30#30: *7 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:29:37 [error] 30#30: *8 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:33:13 [emerg] 32#32: dlopen() "/etc/nginx/modules/ngx_htp_js_module.so" failed (/etc/nginx/modules/ngx_htp_js_module.so: cannot open shared object file: No such file or directory) in /etc/nginx/nginx.conf:1
+2025/03/11 13:38:21 [emerg] 1#1: host not found in upstream "auth" in /etc/nginx/nginx.conf:28
+2025/03/11 13:38:26 [emerg] 1#1: host not found in upstream "auth" in /etc/nginx/nginx.conf:28
+2025/03/11 13:39:02 [error] 22#22: *2 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:39:02 [info] 22#22: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:39:06 [info] 22#22: *3 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2025/03/11 13:39:06 [error] 22#22: *4 js function "introspectAccessToken" not found, client: 172.19.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8003"
+2025/03/11 13:43:52 [emerg] 1#1: unknown directive "js_include" in /etc/nginx/nginx.conf:18
+2025/03/11 13:44:56 [emerg] 1#1: unknown directive "js_include" in /etc/nginx/nginx.conf:18
+2025/03/11 13:45:18 [emerg] 1#1: ReferenceError: Cannot load module "oauth2.js" (ENOENT:No such file or directory)
+2025/03/11 13:47:36 [emerg] 1#1: ReferenceError: Cannot load module "introspectAccessToken.js" (ENOENT:No such file or directory)
+2025/03/11 14:14:41 [notice] 1#1: js vm init njs: 00005CC08062BA00
+2025/03/11 14:15:35 [info] 29#29: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:27:18 [notice] 1#1: js vm init njs: 00005B26F0D39A00
+2025/03/11 14:32:14 [info] 29#29: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:32:14 [error] 29#29: *2 js exception: Error: is not a number
+    at Request.return (native)
+    at introspectAccessToken (/etc/nginx/njs/oauth2.js:3)
+, client: 172.20.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:32:18 [info] 29#29: *3 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:32:18 [error] 29#29: *4 js exception: Error: is not a number
+    at Request.return (native)
+    at introspectAccessToken (/etc/nginx/njs/oauth2.js:3)
+, client: 172.20.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:32:33 [info] 29#29: *5 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:32:33 [error] 29#29: *6 js exception: Error: is not a number
+    at Request.return (native)
+    at introspectAccessToken (/etc/nginx/njs/oauth2.js:3)
+, client: 172.20.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:34:33 [info] 29#29: *7 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:34:33 [error] 29#29: *8 js exception: Error: is not a number
+    at Request.return (native)
+    at introspectAccessToken (/etc/nginx/njs/oauth2.js:3)
+, client: 172.20.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:34:39 [info] 29#29: *9 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:34:39 [error] 29#29: *10 js exception: Error: is not a number
+    at Request.return (native)
+    at introspectAccessToken (/etc/nginx/njs/oauth2.js:3)
+, client: 172.20.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:35:00 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:36:03 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:36:04 [error] 22#22: *2 js exception: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+ while sending to client, client: 172.20.0.1, server: _, request: "GET / HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/11 14:36:21 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:36:21 [error] 22#22: *5 js exception: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+ while sending to client, client: 172.20.0.1, server: _, request: "GET / HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/11 14:36:59 [info] 22#22: *7 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:36:59 [error] 22#22: *8 js exception: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+ while sending to client, client: 172.20.0.1, server: _, request: "GET / HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/11 14:38:26 [info] 22#22: *10 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:38:26 [error] 22#22: *11 js exception: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+ while sending to client, client: 172.20.0.1, server: _, request: "GET / HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/11 14:38:41 [info] 22#22: *13 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:38:41 [error] 22#22: *14 js function "introspectAccessToken" not found, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 14:38:41 [error] 22#22: *14 auth request unexpected status: 500, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:38:45 [info] 22#22: *15 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:38:45 [error] 22#22: *16 js function "introspectAccessToken" not found, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 14:38:45 [error] 22#22: *16 auth request unexpected status: 500, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:38:46 [info] 22#22: *17 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:38:46 [error] 22#22: *18 js function "introspectAccessToken" not found, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 14:38:46 [error] 22#22: *18 auth request unexpected status: 500, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:39:29 [emerg] 1#1: invalid number of arguments in "js_content" directive in /etc/nginx/nginx.conf:70
+2025/03/11 14:40:02 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:40:02 [error] 22#22: *2 js function "introspectAccessToken" not found, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_token_introspection", host: "localhost:8003"
+2025/03/11 14:40:02 [error] 22#22: *2 auth request unexpected status: 500, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:40:36 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:40:36 [error] 22#22: *2 js exception: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+ while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/11 14:43:41 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:43:41 [error] 22#22: *2 js exception: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+ while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/11 14:44:27 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:44:27 [error] 22#22: *5 js exception: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+ while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/11 14:46:02 [info] 21#21: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:46:37 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:46:37 [error] 22#22: *2 js exception: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+ while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/11 14:48:52 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:48:52 [error] 22#22: *2 js: Error during access token introspection:
+2025/03/11 14:48:52 [error] 22#22: *2 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:7)
+
+2025/03/11 14:48:52 [error] 22#22: *2 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:49:18 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:49:18 [error] 22#22: *2 js: Error during access token introspection:
+2025/03/11 14:49:18 [error] 22#22: *2 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:7)
+
+2025/03/11 14:49:18 [error] 22#22: *2 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:49:29 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:49:29 [error] 22#22: *5 js: Error during access token introspection:
+2025/03/11 14:49:29 [error] 22#22: *5 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:7)
+
+2025/03/11 14:49:29 [error] 22#22: *5 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:52:37 [info] 21#21: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:52:37 [error] 21#21: *2 js: Request {args:{},done:[Function: done],error:[Function: error],finish:[Function: finish],headersIn:{Accept:'application/json',Authorization:'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5ZTVlNmYwNS1kMTkzLTRlMGQtYjhiYi1jZjBmZmExZjUzMWMiLCJqdGkiOiJhZjdkZjYzNTU3NDU5NTk0OTBkMzBkZTFmY2Q2NzBkODc0YmMzZjE3NTA4ZmYwY2I0NWY5ZjVhMGFhMDJlNWU1YjQ0ZWViYTliMzk1NzY0NyIsImlhdCI6MTc0MTY5NTc0MS4zMTExMTgsIm5iZiI6MTc0MTY5NTc0MS4zMTExMjIsImV4cCI6MTc3MzIzMTc0MS4yOTkxMDgsInN1YiI6IjEiLCJzY29wZXMiOltdfQ.UAwEan1KmzTkMAJHJtLmN1jYtGWzGM-DLKWwccr-dErIqLF6lMQKtFm5Ni4RspqzhiiXh7doMGBNXdoWpJKNgeIEuz6xfdFk8hM-axH9OSaqh4lFqYBs1niWk19MkO1m1_CA8jQNCDhKzVLePUHXJpGfBQ2c4STux8zHmaB3S9nNS-CDKKK7o-aW6YaLI2OQCl9KN4Qh3h_HJfEUfkBNh5tPIoOmQ_Mhqy0VZEMcSHGBP6oUnDYfATXxj9-u4QyWRMwKdYL7OagFxj36xSeXPkQH_lPhssEburrL3RDGgxY20r1f8j0VWg3CKfys_1ZkntdtIP-cm9ybrc-HM1XrSuHJHPhprnEUSMHG7jhl0mnequQDYXzrV4AX8GDfySgMx0o28-APGwjK0BkWxp3RaCVuUBMR6OyBPNHxc-Y7OixkFpLWilnhIZ3Xnr3A5Dw3toYg7VZs_l1G1GwHmAFDAlsw8lEXrzkvuNpe1uBSUIhiJxZ1toxL2a_2G93Aq_2WI2QaIuo-IkKCVc_cHmbr9Zr_XXoXT_IhaAk6ihlXkIz1HDBz_RQcNhRrcc571poIIzVLaajro8IZlEHNjPQDyjr65kbtmm_rwTYwksZMkLioOPlMQI3P0SM-v06UT67eaVkGCpa7DQ479cwjoaE6pvlobKwD9ybXkCsnO3r5xWI',User-Agent:'PostmanRuntime/7.43.0',Postman-Token:'e964f52a-b78b-460d-ae8e-334e5f523e07',Host:'localhost:8003',Accept-Encoding:'gzip, deflate, br',Connection:'keep-alive'},headersOut:{Content-Type:'application/json',Host:'localhost',X-Powered-By:'PHP/8.3.17',Cache-Control:'private, must-revalidate',pragma:'no-cache',expires:'-1',Access-Control-Allow-Origin:'*'},httpVersion:'1.1',internal:true,internalRedirect:[Function: internalRedirect],log:[Function: log],method:'GET',remoteAddress:'172.20.0.1',requestText:undefined,responseText:'["ok"]',return:[Function: return],send:[Function: send],sendBuffer:[Function: sendBuffer],sendHeader:[Function: sendHeader],setReturnValue:[Function: setReturnValue],status:200,subrequest:[Function: subrequest],uri:'/_oauth2_send_request',warn:[Function: warn]}
+2025/03/11 14:52:37 [error] 21#21: *2 js: Error during access token introspection:
+2025/03/11 14:52:37 [error] 21#21: *2 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+
+2025/03/11 14:52:37 [error] 21#21: *2 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:54:35 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:54:35 [error] 22#22: *2 js: Error during access token introspection:
+2025/03/11 14:54:35 [error] 22#22: *2 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:5)
+
+2025/03/11 14:54:35 [error] 22#22: *2 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:54:36 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:54:36 [error] 22#22: *5 js: Error during access token introspection:
+2025/03/11 14:54:36 [error] 22#22: *5 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:5)
+
+2025/03/11 14:54:36 [error] 22#22: *5 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:55:59 [info] 22#22: *7 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:56:00 [error] 22#22: *8 js: Error during access token introspection:
+2025/03/11 14:56:00 [error] 22#22: *8 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:5)
+
+2025/03/11 14:56:00 [error] 22#22: *8 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:58:07 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:58:07 [error] 22#22: *2 js: undefined
+2025/03/11 14:58:07 [error] 22#22: *2 js: Error during access token introspection:
+2025/03/11 14:58:07 [error] 22#22: *2 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+
+2025/03/11 14:58:07 [error] 22#22: *2 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:58:14 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:58:14 [error] 22#22: *5 js: undefined
+2025/03/11 14:58:14 [error] 22#22: *5 js: Error during access token introspection:
+2025/03/11 14:58:14 [error] 22#22: *5 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+
+2025/03/11 14:58:14 [error] 22#22: *5 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/11 14:58:55 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/11 14:58:55 [error] 22#22: *2 js: Request {args:{},done:[Function: done],error:[Function: error],finish:[Function: finish],headersIn:{Accept:'application/json',Authorization:'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5ZTVlNmYwNS1kMTkzLTRlMGQtYjhiYi1jZjBmZmExZjUzMWMiLCJqdGkiOiJhZjdkZjYzNTU3NDU5NTk0OTBkMzBkZTFmY2Q2NzBkODc0YmMzZjE3NTA4ZmYwY2I0NWY5ZjVhMGFhMDJlNWU1YjQ0ZWViYTliMzk1NzY0NyIsImlhdCI6MTc0MTY5NTc0MS4zMTExMTgsIm5iZiI6MTc0MTY5NTc0MS4zMTExMjIsImV4cCI6MTc3MzIzMTc0MS4yOTkxMDgsInN1YiI6IjEiLCJzY29wZXMiOltdfQ.UAwEan1KmzTkMAJHJtLmN1jYtGWzGM-DLKWwccr-dErIqLF6lMQKtFm5Ni4RspqzhiiXh7doMGBNXdoWpJKNgeIEuz6xfdFk8hM-axH9OSaqh4lFqYBs1niWk19MkO1m1_CA8jQNCDhKzVLePUHXJpGfBQ2c4STux8zHmaB3S9nNS-CDKKK7o-aW6YaLI2OQCl9KN4Qh3h_HJfEUfkBNh5tPIoOmQ_Mhqy0VZEMcSHGBP6oUnDYfATXxj9-u4QyWRMwKdYL7OagFxj36xSeXPkQH_lPhssEburrL3RDGgxY20r1f8j0VWg3CKfys_1ZkntdtIP-cm9ybrc-HM1XrSuHJHPhprnEUSMHG7jhl0mnequQDYXzrV4AX8GDfySgMx0o28-APGwjK0BkWxp3RaCVuUBMR6OyBPNHxc-Y7OixkFpLWilnhIZ3Xnr3A5Dw3toYg7VZs_l1G1GwHmAFDAlsw8lEXrzkvuNpe1uBSUIhiJxZ1toxL2a_2G93Aq_2WI2QaIuo-IkKCVc_cHmbr9Zr_XXoXT_IhaAk6ihlXkIz1HDBz_RQcNhRrcc571poIIzVLaajro8IZlEHNjPQDyjr65kbtmm_rwTYwksZMkLioOPlMQI3P0SM-v06UT67eaVkGCpa7DQ479cwjoaE6pvlobKwD9ybXkCsnO3r5xWI',User-Agent:'PostmanRuntime/7.43.0',Postman-Token:'bfac94ae-a6ff-4ede-9941-c5106e7a92f3',Host:'localhost:8003',Accept-Encoding:'gzip, deflate, br',Connection:'keep-alive'},headersOut:{Content-Type:'application/json',Host:'localhost',X-Powered-By:'PHP/8.3.17',Cache-Control:'private, must-revalidate',pragma:'no-cache',expires:'-1',Access-Control-Allow-Origin:'*'},httpVersion:'1.1',internal:true,internalRedirect:[Function: internalRedirect],log:[Function: log],method:'GET',remoteAddress:'172.20.0.1',requestText:undefined,responseText:'{"active":true}',return:[Function: return],send:[Function: send],sendBuffer:[Function: sendBuffer],sendHeader:[Function: sendHeader],setReturnValue:[Function: setReturnValue],status:200,subrequest:[Function: subrequest],uri:'/_oauth2_send_request',warn:[Function: warn]}
+2025/03/11 14:58:55 [error] 22#22: *2 js: Error during access token introspection:
+2025/03/11 14:58:55 [error] 22#22: *2 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+
+2025/03/11 14:58:55 [error] 22#22: *2 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/12 14:07:54 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:07:54 [error] 22#22: *2 js: Request {args:{},done:[Function: done],error:[Function: error],finish:[Function: finish],headersIn:{Accept:'application/json',Authorization:'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5ZTVlNmYwNS1kMTkzLTRlMGQtYjhiYi1jZjBmZmExZjUzMWMiLCJqdGkiOiJhZjdkZjYzNTU3NDU5NTk0OTBkMzBkZTFmY2Q2NzBkODc0YmMzZjE3NTA4ZmYwY2I0NWY5ZjVhMGFhMDJlNWU1YjQ0ZWViYTliMzk1NzY0NyIsImlhdCI6MTc0MTY5NTc0MS4zMTExMTgsIm5iZiI6MTc0MTY5NTc0MS4zMTExMjIsImV4cCI6MTc3MzIzMTc0MS4yOTkxMDgsInN1YiI6IjEiLCJzY29wZXMiOltdfQ.UAwEan1KmzTkMAJHJtLmN1jYtGWzGM-DLKWwccr-dErIqLF6lMQKtFm5Ni4RspqzhiiXh7doMGBNXdoWpJKNgeIEuz6xfdFk8hM-axH9OSaqh4lFqYBs1niWk19MkO1m1_CA8jQNCDhKzVLePUHXJpGfBQ2c4STux8zHmaB3S9nNS-CDKKK7o-aW6YaLI2OQCl9KN4Qh3h_HJfEUfkBNh5tPIoOmQ_Mhqy0VZEMcSHGBP6oUnDYfATXxj9-u4QyWRMwKdYL7OagFxj36xSeXPkQH_lPhssEburrL3RDGgxY20r1f8j0VWg3CKfys_1ZkntdtIP-cm9ybrc-HM1XrSuHJHPhprnEUSMHG7jhl0mnequQDYXzrV4AX8GDfySgMx0o28-APGwjK0BkWxp3RaCVuUBMR6OyBPNHxc-Y7OixkFpLWilnhIZ3Xnr3A5Dw3toYg7VZs_l1G1GwHmAFDAlsw8lEXrzkvuNpe1uBSUIhiJxZ1toxL2a_2G93Aq_2WI2QaIuo-IkKCVc_cHmbr9Zr_XXoXT_IhaAk6ihlXkIz1HDBz_RQcNhRrcc571poIIzVLaajro8IZlEHNjPQDyjr65kbtmm_rwTYwksZMkLioOPlMQI3P0SM-v06UT67eaVkGCpa7DQ479cwjoaE6pvlobKwD9ybXkCsnO3r5xWI',User-Agent:'PostmanRuntime/7.43.0',Postman-Token:'3a7d5525-eacf-4f4a-a1d7-7816fd902691',Host:'localhost:8003',Accept-Encoding:'gzip, deflate, br',Connection:'keep-alive'},headersOut:{Content-Type:'application/json',Host:'localhost',X-Powered-By:'PHP/8.3.17',Cache-Control:'private, must-revalidate',pragma:'no-cache',expires:'-1',Access-Control-Allow-Origin:'*'},httpVersion:'1.1',internal:true,internalRedirect:[Function: internalRedirect],log:[Function: log],method:'GET',remoteAddress:'172.20.0.1',requestText:undefined,responseText:'{"active":true}',return:[Function: return],send:[Function: send],sendBuffer:[Function: sendBuffer],sendHeader:[Function: sendHeader],setReturnValue:[Function: setReturnValue],status:200,subrequest:[Function: subrequest],uri:'/_oauth2_send_request',warn:[Function: warn]}
+2025/03/12 14:07:54 [error] 22#22: *2 js: Error during access token introspection:
+2025/03/12 14:07:54 [error] 22#22: *2 js: SyntaxError: Unexpected token at position 0
+    at JSON.parse (native)
+    at anonymous (/etc/nginx/njs/oauth2.js:6)
+
+2025/03/12 14:07:54 [error] 22#22: *2 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/12 14:29:29 [info] 21#21: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:29:29 [error] 21#21: *2 js: Request {args:{},done:[Function: done],error:[Function: error],finish:[Function: finish],headersIn:{Accept:'application/json',Authorization:'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5ZTVlNmYwNS1kMTkzLTRlMGQtYjhiYi1jZjBmZmExZjUzMWMiLCJqdGkiOiJhZjdkZjYzNTU3NDU5NTk0OTBkMzBkZTFmY2Q2NzBkODc0YmMzZjE3NTA4ZmYwY2I0NWY5ZjVhMGFhMDJlNWU1YjQ0ZWViYTliMzk1NzY0NyIsImlhdCI6MTc0MTY5NTc0MS4zMTExMTgsIm5iZiI6MTc0MTY5NTc0MS4zMTExMjIsImV4cCI6MTc3MzIzMTc0MS4yOTkxMDgsInN1YiI6IjEiLCJzY29wZXMiOltdfQ.UAwEan1KmzTkMAJHJtLmN1jYtGWzGM-DLKWwccr-dErIqLF6lMQKtFm5Ni4RspqzhiiXh7doMGBNXdoWpJKNgeIEuz6xfdFk8hM-axH9OSaqh4lFqYBs1niWk19MkO1m1_CA8jQNCDhKzVLePUHXJpGfBQ2c4STux8zHmaB3S9nNS-CDKKK7o-aW6YaLI2OQCl9KN4Qh3h_HJfEUfkBNh5tPIoOmQ_Mhqy0VZEMcSHGBP6oUnDYfATXxj9-u4QyWRMwKdYL7OagFxj36xSeXPkQH_lPhssEburrL3RDGgxY20r1f8j0VWg3CKfys_1ZkntdtIP-cm9ybrc-HM1XrSuHJHPhprnEUSMHG7jhl0mnequQDYXzrV4AX8GDfySgMx0o28-APGwjK0BkWxp3RaCVuUBMR6OyBPNHxc-Y7OixkFpLWilnhIZ3Xnr3A5Dw3toYg7VZs_l1G1GwHmAFDAlsw8lEXrzkvuNpe1uBSUIhiJxZ1toxL2a_2G93Aq_2WI2QaIuo-IkKCVc_cHmbr9Zr_XXoXT_IhaAk6ihlXkIz1HDBz_RQcNhRrcc571poIIzVLaajro8IZlEHNjPQDyjr65kbtmm_rwTYwksZMkLioOPlMQI3P0SM-v06UT67eaVkGCpa7DQ479cwjoaE6pvlobKwD9ybXkCsnO3r5xWI',User-Agent:'PostmanRuntime/7.43.0',Postman-Token:'deebf2f0-d56b-4a87-91b8-1408f5af462b',Host:'localhost:8003',Accept-Encoding:'gzip, deflate, br',Connection:'keep-alive'},headersOut:{Content-Type:'application/json',Host:'localhost',X-Powered-By:'PHP/8.3.17',Cache-Control:'private, must-revalidate',pragma:'no-cache',expires:'-1',Access-Control-Allow-Origin:'*'},httpVersion:'1.1',internal:true,internalRedirect:[Function: internalRedirect],log:[Function: log],method:'GET',remoteAddress:'172.20.0.1',requestText:undefined,responseText:'{"active":true}',return:[Function: return],send:[Function: send],sendBuffer:[Function: sendBuffer],sendHeader:[Function: sendHeader],setReturnValue:[Function: setReturnValue],status:200,subrequest:[Function: subrequest],uri:'/_oauth2_send_request',warn:[Function: warn]}
+2025/03/12 14:54:01 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:01 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:01 [error] 22#22: *2 too big subrequest response while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/12 14:57:01 [error] 22#22: *2 pending events while closing request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:02 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:02 [error] 22#22: *5 too big subrequest response while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/12 14:57:02 [error] 22#22: *5 pending events while closing request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:11 [info] 22#22: *7 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:11 [error] 22#22: *8 too big subrequest response while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/12 14:57:11 [error] 22#22: *8 pending events while closing request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:39 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:39 [error] 22#22: *2 too big subrequest response while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/12 14:57:39 [error] 22#22: *2 pending events while closing request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:40 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:40 [error] 22#22: *5 too big subrequest response while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/12 14:57:40 [error] 22#22: *5 pending events while closing request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:44 [info] 22#22: *7 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:44 [error] 22#22: *8 too big subrequest response while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/12 14:57:44 [error] 22#22: *8 pending events while closing request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:56 [info] 22#22: *10 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:57:56 [error] 22#22: *11 too big subrequest response while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/12 14:57:56 [error] 22#22: *11 pending events while closing request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:58:16 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:58:17 [error] 22#22: *2 too big subrequest response while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/12 14:58:17 [error] 22#22: *2 pending events while closing request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:58:26 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:58:26 [error] 22#22: *5 too big subrequest response while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/12 14:58:26 [error] 22#22: *5 pending events while closing request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:58:45 [info] 22#22: *7 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/12 14:59:31 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:20:30 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:20:30 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:22:34 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:22:34 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:22:35 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:22:40 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:22:41 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:24:31 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:24:31 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:24:31 [error] 22#22: *2 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/13 07:24:41 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:24:41 [error] 22#22: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:24:41 [error] 22#22: *5 auth request unexpected status: 500 while sending to client, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", host: "localhost:8003"
+2025/03/13 07:25:17 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:25:17 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:25:17 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", upstream: "http://172.20.0.4:8000/api/v1/courses", host: "localhost:8003"
+2025/03/13 07:25:43 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:25:43 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", upstream: "http://172.20.0.4:8000/api/v1/courses", host: "localhost:8003"
+2025/03/13 07:40:21 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:40:21 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", subrequest: "/_oauth2_send_request", upstream: "http://172.20.0.4:8000/api/v1/oauth/token-introspection", host: "localhost:8003"
+2025/03/13 07:40:21 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/courses HTTP/1.1", upstream: "http://172.20.0.4:8000/api/v1/courses", host: "localhost:8003"
+2025/03/13 07:52:21 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:53:34 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:54:58 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 07:57:19 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/13 08:00:59 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/14 13:45:17 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/14 13:52:30 [info] 22#22: *5 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/14 13:54:21 [info] 29#29: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/14 14:02:09 [info] 29#29: *5 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/14 14:16:19 [emerg] 1#1: host not found in upstream "courses" in /etc/nginx/nginx.conf:39
+2025/03/14 14:18:02 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/14 14:29:42 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/14 14:32:14 [info] 22#22: *4 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 09:26:02 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 09:53:34 [info] 22#22: *5 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:10:45 [info] 22#22: *8 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:20:45 [info] 22#22: *11 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:24:17 [info] 22#22: *16 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:28:13 [info] 22#22: *25 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:36:20 [info] 22#22: *29 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:38:08 [info] 22#22: *33 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:40:57 [error] 22#22: *39 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/api/v1/courses/tags?page=2"
+2025/03/17 11:41:57 [info] 22#22: *41 client timed out (110: Connection timed out) while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:43:09 [info] 22#22: *42 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:46:39 [info] 22#22: *45 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 11:48:17 [info] 22#22: *53 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 12:00:03 [info] 22#22: *62 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 12:00:22 [error] 22#22: *68 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/api/v1/courses"
+2025/03/17 12:01:22 [info] 22#22: *69 client timed out (110: Connection timed out) while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 13:08:55 [info] 22#22: *72 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 13:11:13 [info] 22#22: *75 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/17 13:15:25 [error] 22#22: *79 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/api/v1/courses"
+2025/03/17 13:16:25 [info] 22#22: *78 client timed out (110: Connection timed out) while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 09:04:49 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 09:04:49 [error] 22#22: *2 open() "/etc/nginx/html/api/v1/register" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "POST /api/v1/register HTTP/1.1", host: "localhost:8003"
+2025/03/18 09:04:58 [error] 22#22: *2 open() "/etc/nginx/html/api/v1/register" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "POST /api/v1/register HTTP/1.1", host: "localhost:8003"
+2025/03/18 09:06:03 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 09:08:26 [info] 22#22: *6 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 09:18:01 [info] 22#22: *10 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 09:20:38 [info] 22#22: *14 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 09:22:43 [info] 22#22: *25 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 09:24:26 [info] 22#22: *29 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 09:32:39 [info] 22#22: *43 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 09:36:12 [info] 22#22: *50 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 14:36:16 [info] 22#22: *121 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/18 14:55:44 [info] 22#22: *145 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "POST /api/v1/register HTTP/1.1", upstream: "http://172.20.0.9:8000/api/v1/register", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/18 14:59:14 [info] 22#22: *151 client 172.20.0.1 closed keepalive connection
+2025/03/18 18:18:25 [info] 22#22: *1 client 172.20.0.1 closed keepalive connection
+2025/03/19 20:27:44 [info] 22#22: *73 client 172.20.0.1 closed keepalive connection
+2025/03/19 20:58:05 [info] 22#22: *100 client 172.20.0.1 closed keepalive connection
+2025/03/20 12:18:05 [error] 22#22: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/api/v1/courses"
+2025/03/20 12:18:17 [error] 22#22: *1 open() "/etc/nginx/html/api/v1/test" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /api/v1/test HTTP/1.1", host: "localhost:8003"
+2025/03/20 12:19:05 [info] 22#22: *3 client timed out (110: Connection timed out) while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/20 12:20:13 [emerg] 1#1: host not found in upstream "courses" in /etc/nginx/nginx.conf:44
+2025/03/20 13:06:29 [info] 22#22: *8 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/20 13:07:39 [info] 22#22: *11 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/20 13:14:28 [info] 22#22: *19 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/20 13:15:53 [error] 22#22: *26 open() "/etc/nginx/html/storage/avatars/default.png" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /storage/avatars/default.png HTTP/1.1", host: "localhost:8003"
+2025/03/20 13:15:53 [error] 22#22: *26 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/storage/avatars/default.png"
+2025/03/20 13:16:53 [info] 22#22: *27 client timed out (110: Connection timed out) while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/20 13:21:15 [info] 22#22: *28 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/20 13:22:46 [info] 22#22: *32 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/20 13:28:39 [info] 22#22: *50 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/20 13:31:36 [info] 22#22: *58 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:03:45 [info] 29#29: *71 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:07:07 [info] 29#29: *80 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:09:30 [info] 29#29: *83 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:14:27 [info] 29#29: *94 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:16:45 [info] 29#29: *99 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:18:57 [info] 29#29: *104 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:20:11 [info] 29#29: *107 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:22:59 [error] 29#29: *118 open() "/etc/nginx/html/storage/avatars/default.png" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /storage/avatars/default.png HTTP/1.1", host: "localhost:8003"
+2025/03/21 09:22:59 [error] 29#29: *118 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/storage/avatars/default.png"
+2025/03/21 09:23:59 [info] 29#29: *119 client timed out (110: Connection timed out) while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:24:53 [info] 29#29: *120 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:29:06 [info] 29#29: *131 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:32:03 [info] 29#29: *139 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/21 09:50:27 [info] 29#29: *290 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 09:53:12 [info] 29#29: *328 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 09:53:16 [info] 29#29: *347 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 12:50:38 [info] 29#29: *400 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 12:53:23 [info] 29#29: *429 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 12:53:48 [info] 29#29: *440 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 12:54:33 [info] 29#29: *456 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 12:55:07 [info] 29#29: *430 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 12:58:59 [info] 29#29: *488 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 12:59:17 [info] 29#29: *499 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 12:59:21 [info] 29#29: *510 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 13:01:35 [info] 29#29: *495 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/21 13:08:21 [info] 29#29: *626 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: _, request: "GET /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/03/22 10:28:25 [info] 22#22: *17 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/22 10:28:30 [info] 22#22: *3 client 172.20.0.1 closed keepalive connection
+2025/03/22 10:28:30 [info] 22#22: *1 client 172.20.0.1 closed keepalive connection
+2025/03/22 10:31:29 [info] 22#22: *20 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/22 10:32:19 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/22 10:33:36 [emerg] 1#1: unexpected end of file, expecting "}" in /etc/nginx/nginx.conf:56
+2025/03/22 10:34:41 [emerg] 1#1: unexpected end of file, expecting "}" in /etc/nginx/nginx.conf:56
+2025/03/22 10:36:31 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/22 10:41:41 [emerg] 1#1: location "/courses" is outside location "/api/v1/" in /etc/nginx/nginx.conf:44
+2025/03/22 10:43:06 [emerg] 1#1: location "/courses" is outside location "/api/v1/" in /etc/nginx/nginx.conf:45
+2025/03/22 10:44:28 [info] 22#22: *1 client closed connection while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2025/03/23 18:08:22 [error] 22#22: *2204 open() "/etc/nginx/html/storage/avatars/default.png" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /storage/avatars/default.png HTTP/1.1", host: "localhost:8003"
+2025/03/23 18:08:22 [error] 22#22: *2204 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/storage/avatars/default.png"
+2025/03/23 18:10:14 [error] 22#22: *2206 open() "/etc/nginx/html/storage/avatars/default.png" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /storage/avatars/default.png HTTP/1.1", host: "localhost:8003"
+2025/04/09 18:50:07 [error] 22#22: *2 open() "/etc/nginx/html/api/v1/course" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "POST /api/v1/course HTTP/1.1", host: "localhost:8003"
+2025/04/09 18:50:27 [error] 22#22: *2 open() "/etc/nginx/html/api/v1/course" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "POST /api/v1/course HTTP/1.1", host: "localhost:8003"
+2025/04/14 18:12:23 [error] 22#22: *110 open() "/etc/nginx/html/api/v1/modules" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "POST /api/v1/modules HTTP/1.1", host: "localhost:8003"
+2025/04/14 18:12:55 [error] 22#22: *110 open() "/etc/nginx/html/api/v1/modules" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "POST /api/v1/modules HTTP/1.1", host: "localhost:8003"
+2025/04/17 18:08:30 [notice] 29#29: signal process started
+2025/04/17 18:08:33 [error] 30#30: *20 open() "/etc/nginx/html/api/v1/lessons" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /api/v1/lessons HTTP/1.1", host: "localhost:8003"
+2025/04/17 18:09:49 [error] 30#30: *23 open() "/etc/nginx/html/api/v1/lessons" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /api/v1/lessons HTTP/1.1", host: "localhost:8003"
+2025/04/17 18:09:53 [notice] 31#31: signal process started
+2025/04/25 17:26:37 [emerg] 1#1: host not found in upstream "auth" in /etc/nginx/nginx.conf:14
+2025/04/29 16:32:18 [error] 22#22: *40 open() "/etc/nginx/html/api/v1/user-courses" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /api/v1/user-courses HTTP/1.1", host: "localhost:8003"
+2025/05/05 19:32:45 [error] 22#22: *835 open() "/etc/nginx/html/api/v1/comments/3/like" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "POST /api/v1/comments/3/like HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/05/05 19:32:45 [error] 22#22: *835 open() "/etc/nginx/html/api/v1/comments/3/like" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "POST /api/v1/comments/3/like HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/05/05 19:32:46 [error] 22#22: *835 open() "/etc/nginx/html/api/v1/comments/4/like" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "POST /api/v1/comments/4/like HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/05/14 16:43:57 [error] 22#22: *1 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: _, request: "OPTIONS /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/05/14 16:43:57 [error] 22#22: *3 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: _, request: "OPTIONS /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/05/14 16:44:13 [error] 22#22: *3 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: _, request: "OPTIONS /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/05/14 16:44:13 [error] 22#22: *1 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: _, request: "OPTIONS /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/05/14 16:44:28 [error] 22#22: *1 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: _, request: "OPTIONS /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/05/14 16:44:28 [error] 22#22: *3 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: _, request: "OPTIONS /api/v1/users/current HTTP/1.1", upstream: "http://172.20.0.7:8000/api/v1/users/current", host: "localhost:8003", referrer: "http://localhost:5173/"
+2025/05/30 09:26:23 [error] 22#22: *356 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/api/v1/courses?page=2&per_page=8"
+2025/05/30 09:32:47 [error] 22#22: *423 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/api/v1/courses?page=2&per_page=8"
+2025/06/04 18:16:18 [error] 22#22: *557 open() "/etc/nginx/html/telescope" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /telescope HTTP/1.1", host: "localhost:8003"
+2025/06/04 18:16:18 [error] 22#22: *557 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8003", referrer: "http://localhost:8003/telescope"
